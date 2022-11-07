@@ -1,0 +1,25 @@
+.b1{
+    background-color: #1abc9c;
+    
+}
+img{
+    width:50% ;
+    height: auto;
+}
+.b2{
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.b3{
+    background-color: #ffffff; /* White */
+
+    color: #555555;
+}
+.container-fluid{
+    padding-top: 70px;
+
+    padding-bottom: 70px;
+}
+.img-bird{
+    width: 100%;
+}
